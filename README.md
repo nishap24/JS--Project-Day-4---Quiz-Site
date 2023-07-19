@@ -40,7 +40,8 @@ To explore or modify the code, follow these steps:
 3️⃣ Responsive design: Ensure the website is accessible and user-friendly on various devices.
 
 
-## Deployment Status[![Netlify Status](https://api.netlify.com/api/v1/badges/fc1df4b8-9232-4c7d-85f0-8beb2ab2760c/deploy-status)](https://app.netlify.com/sites/kanasu-quiz-site/deploys)
+## Deployment Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fc1df4b8-9232-4c7d-85f0-8beb2ab2760c/deploy-status)](https://app.netlify.com/sites/kanasu-quiz-site/deploys)
 
 ## Contributing
 
