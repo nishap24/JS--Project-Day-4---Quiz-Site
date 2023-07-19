@@ -6,7 +6,7 @@ Nisha Kanasu💛 - Quiz Site
 Presenting my JavaScript Quiz Website! Test your knowledge with a collection of engaging quizzes. Enjoy an interactive experience, responsive design, and captivating visuals. Enhance your learning while having fun. Accessible on any device for seamless quiz-taking. Expand your knowledge with this captivating quiz platform.
 ## Authors
 
-- [NK💛](https://www.github.com/codesofTG) 
+- [NK💛](https://www.github.com/nishap24) 
 
 
 ## Demo
@@ -40,7 +40,8 @@ To explore or modify the code, follow these steps:
 3️⃣ Responsive design: Ensure the website is accessible and user-friendly on various devices.
 
 
-
+## Deployment Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fc1df4b8-9232-4c7d-85f0-8beb2ab2760c/deploy-status)](https://app.netlify.com/sites/kanasu-quiz-site/deploys)
 ## Contributing
 
 Contributions are always welcome!
